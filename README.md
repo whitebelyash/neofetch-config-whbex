@@ -5,9 +5,4 @@ Tweaked neofetch config:
 - idk what else  
 
 ## Install
-
-### Linux
 Copy to `~/.config/neofetch/config.conf`
-
-### Windows/macOS
-eta son
